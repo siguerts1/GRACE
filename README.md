@@ -1,2 +1,2 @@
-# DEMO_PROJECT
-Project demo to try github features
+# GO_CM_DEMO_PROJECT
+
