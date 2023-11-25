@@ -1,0 +1,27 @@
+First Structure
+
+GRACE
+│   README.md
+│   .gitignore
+│
+└───server
+│   │   main.go
+│   │   config.go
+│   │   handler.go
+│   │   utils.go
+│   └───modules
+│       │   directory.go
+│       │   file.go
+│       │   system.go
+│   
+└───client
+    │   main.go
+    │   config.go
+    │   executor.go
+    │   utils.go
+    └───modules
+        │   directory.go
+        │   file.go
+        │   system.go
+
+  
