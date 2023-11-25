@@ -1,5 +1,6 @@
 # GRACE
-# GO REMOTE AND CONFIGURATION EXECUTION
+#
+# Go remote and configuration execution
 
 
 
